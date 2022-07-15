@@ -68,7 +68,7 @@ ul{
 #sub1{
     width: 100%;
     height: 600px;
-    background: url('../images/network.jpg');
+    background: url('network.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     color: white;
@@ -77,7 +77,7 @@ ul{
 #sub2{
     width: 100%;
     height: 600px;
-    background: url('../images/apple1.jpg');
+    background: url('apple1.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     color: white;
@@ -100,7 +100,7 @@ ul{
 #sub3{
     width: 100%;
     height: 600px;
-    background: url('../images/apple6.jpg');
+    background: url('apple6.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     color: white;
@@ -108,7 +108,7 @@ ul{
 #sub4{
     width: 100%;
     height: 600px;
-    background: url('../images/motherboard.jpg');
+    background: url('motherboard.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     color: white;
@@ -127,7 +127,7 @@ article{
 .container2{
     width: 100%;
     height: 600px;
-    background: url('../images/laptop1.jpg');
+    background: url('laptop1.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     margin: 20px 0 200px 0;
@@ -143,19 +143,19 @@ article{
     
 }
 .sub5{
-    background: url('../images/printer.jpg');
+    background: url('printer.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     border-radius: 20px;
 }
 .sub6{
-    background: url('../images/RAM.jpg');
+    background: url('RAM.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     border-radius: 20px;
 }
 .sub7{
-    background: url('../images/CPU.jpg');
+    background: url('CPU.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     border-radius: 20px;
@@ -165,19 +165,19 @@ article{
     margin: 50px 0 120px 0;
 }
 .sub8{
-    background: url('../images/projector.jpg');
+    background: url('projector.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     border-radius: 20px;
 }
 .sub9{
-    background: url('../images/HDD.jpg');
+    background: url('HDD.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     border-radius: 20px;
 }
 .sub10{
-    background: url('../images/motherboard2.jpg');
+    background: url('motherboard2.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     border-radius: 20px;
@@ -193,17 +193,17 @@ article{
     width: 30%;
 }
 .sub11{
-    background:url('../images/apple logo.jpg') ;
+    background:url('apple logo.jpg') ;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 .sub12{
-    background:url('../images/linux logo.png') ;
+    background:url('linux logo.png') ;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 .sub13{
-    background:url('../images/windows7.jpg') ;
+    background:url('windows7.jpg') ;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -218,17 +218,17 @@ article{
     width: 30%;
 }
 .sub14{
-    background:url('../images/windows-xp.jpg') ;
+    background:url('windows-xp.jpg') ;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 .sub15{
-    background:url('../images/windows10.jpg') ;
+    background:url('windows10.jpg') ;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 .sub16{
-    background:url('../images/windows11.jpg') ;
+    background:url('windows11.jpg') ;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -245,7 +245,7 @@ article{
     width: 100%;
     height: 600px;
     margin: 120px 0 0 0;
-    background: url('../images/smiling.jpg');
+    background: url('smiling.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     color: black;
@@ -296,17 +296,17 @@ article{
     margin: 90px 0 90px 0;
 }
 .sub17{
-    background: url("../images/keyboard.jpg");
+    background: url("keyboard.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 .sub18{
-    background: url("../images/printer2.jpg");
+    background: url("printer2.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 .sub19{
-    background: url("../images/mouse.jpg");
+    background: url("mouse.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -314,17 +314,17 @@ article{
     width: 30%;
 }
 .sub20{
-    background: url("../images/Router.jpg");
+    background: url("Router.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 .sub21{
-    background: url("../images/flash.jpg");
+    background: url("flash.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 .sub22{
-    background: url("../images/HDMI.jpg");
+    background: url("HDMI.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -332,17 +332,17 @@ article{
     width: 30%;
 }
 .sub23{
-    background: url("../images/LAN_tester.jpg");
+    background: url("LAN_tester.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 .sub24{
-    background: url("../images/hdd3.jpg");
+    background: url("hdd3.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 .sub25{
-    background: url("../images/crimper.jpg");
+    background: url("crimper.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -350,24 +350,24 @@ article{
     width: 30%;
 }
 .sub26{
-    background: url("../images/cable.jpg");
+    background: url("cable.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 .sub27{
-    background: url("../images/card reader.jpg");
+    background: url("card reader.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 .sub28{
-    background: url("../images/USB.jpg");
+    background: url("USB.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 .container15{
     width: 100%;
     height: 400px;
-    background: url('../images/repair4.jpg');
+    background: url('repair4.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     margin: 0 0 90px 0;
