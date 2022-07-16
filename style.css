@@ -583,8 +583,11 @@ footer{
         flex-direction: column;
     }
     .container16 div{
-        width: 80%;
+        width: 50%;
         height: 400px;
         margin: auto;
+    }
+    .sub29{
+        margin: 0 0 20px 0;
     }
 }
