@@ -524,6 +524,9 @@ footer{
         display:flex;
         justify-content: space-around;
     }
+    .container10 div{
+        width: 30%;
+    }
     .container11{
         height: 900px;
         display: flex;
