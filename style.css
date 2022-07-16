@@ -453,6 +453,7 @@ footer{
     .another{
         display: block;
         height: 50px; position: fixed;
+        marging:0 10px 0 0;
     }
     .empty_space{
         height: 70px;
