@@ -523,7 +523,7 @@ footer{
         width:100%
         height: 400px;    
         display:flex;
-        justify-content: space-around;
+        flex-direction: column;
     }
     .container10 div{
         width: 40%;
