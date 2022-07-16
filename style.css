@@ -517,6 +517,11 @@ footer{
     }
     .container9{
         padding: 10px;
+        height: auto;
+    }
+    .container10{
+        width:100%
+        font-size:-small;
     }
     .container11{
         height: 900px;
