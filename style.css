@@ -521,7 +521,8 @@ footer{
     }
     .container10{
         width:100%
-        font-size:-small;
+        display:flex;
+        justify-content: space-around;
     }
     .container11{
         height: 900px;
