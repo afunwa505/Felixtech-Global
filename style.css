@@ -450,6 +450,9 @@ footer{
         width: 100%;
         margin: 20px 0 0 20%;
     }
+    .empty_space{
+        height: 20px;
+    }
     .another{
         display: block;
         height: 50px; position: fixed;
