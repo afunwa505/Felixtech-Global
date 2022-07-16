@@ -520,11 +520,9 @@ footer{
         height: auto;
     }
       .container10{
-        width:100%
         height: 900px;    
         display:flex;
         flex-direction: column;
-         margin: 60px;
     }
     .container10 div{
         width: 40%;
