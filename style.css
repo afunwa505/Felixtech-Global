@@ -525,7 +525,8 @@ footer{
         justify-content: space-around;
     }
     .container10 div{
-        width: 30%;
+        width: 40%;
+        height: auto;
     }
     .container11{
         height: 900px;
