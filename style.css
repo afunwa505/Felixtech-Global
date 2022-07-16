@@ -519,11 +519,12 @@ footer{
         padding: 10px;
         height: auto;
     }
-    .container10{
+      .container10{
         width:100%
         height: 900px;    
         display:flex;
         flex-direction: column;
+         margin: 60px;
     }
     .container10 div{
         width: 40%;
@@ -571,9 +572,6 @@ footer{
     }
     .wrapper02{
         margin: 120px 0 0 0;
-    }
-    .container10{
-        margin: 60px 0 0 0;
     }
     .container15{
         height: 500px;
