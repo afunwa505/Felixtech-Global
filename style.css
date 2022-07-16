@@ -449,11 +449,13 @@ footer{
     .title{
         width: 100%;
         margin: 20px 0 0 20%;
+        background: #000000;
     }
     .another{
         display: block;
         height: 50px; position: fixed;
         padding:0 10px 0 0;
+        background: #000000;
     }
     .empty_space{
         height: 70px;
