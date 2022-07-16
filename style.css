@@ -521,12 +521,12 @@ footer{
     }
     .container10{
         width:100%
+        height: auto;    
         display:flex;
         justify-content: space-around;
     }
     .container10 div{
         width: 40%;
-        height: auto;
     }
     .container11{
         height: 900px;
