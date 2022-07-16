@@ -525,6 +525,7 @@ footer{
         height: 900px;    
         display:flex;
         flex-direction: column;
+        margin: 0 0 40px 0;
     }
     .container10 div{
         width: 40%;
