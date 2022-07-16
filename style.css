@@ -522,7 +522,7 @@ footer{
         height: auto;
     }
       .container10{
-        height: 700px;    
+        height: auto;    
         display:flex;
         flex-direction: column;
     }
