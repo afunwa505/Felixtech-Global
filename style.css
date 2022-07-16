@@ -578,13 +578,14 @@ footer{
         height: 400px;
     }
     .container16, .container17{
+        width: 100%;
         height: 900px;
         display: flex;
         flex-direction: column;
     }
     .container16 div{
         width: 70%;
-        height: 400px;
+        height: 300px;
         margin: auto;
     }
     .sub29, .sub31{
@@ -592,7 +593,10 @@ footer{
     }
      .container17 div{
         width: 70%;
-        height: 400px;
+        height: 300px;
         margin: auto;
+    }
+    .container18{
+        width:30%;
     }
 }
