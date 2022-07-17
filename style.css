@@ -465,7 +465,7 @@ footer{
         height: 80px;
         margin: 10px 0 600px 0;
      }
-    .container1 div{
+    .sub1, .sub2, .sub3, .sub4{
         height: 80px;
     }
     article{
