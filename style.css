@@ -515,6 +515,7 @@ footer{
         width: 50%;
     } 
     .container8{
+        display: none;
         font-size: x-small;
     }
     .container9{
