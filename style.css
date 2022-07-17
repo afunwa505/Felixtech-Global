@@ -521,14 +521,14 @@ footer{
         padding: 10px;
         height: auto;
     }
-      .container10{
-        height: 950px;    
+     .container10{
+        height: 400px;    
         display:flex;
-        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
     }
     .container10 div{
         width: 40%;
-        height: 30px;
     }
     .container11{
         height: 900px;
