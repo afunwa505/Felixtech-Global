@@ -516,20 +516,19 @@ footer{
     } 
     .container8{
         display: none;
-        font-size: x-small;
     }
     .container9{
         padding: 10px;
         height: auto;
     }
      .container10{
-        height: 400px;    
+        height: 900px;    
         display:flex;
-        justify-content: space-between;
-        align-items: center;
+        flex-direction: column;
     }
     .container10 div{
-        width: 40%;
+        width: 100%;
+        height: 200px;
     }
     .container11{
         height: 900px;
