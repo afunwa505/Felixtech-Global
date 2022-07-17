@@ -462,7 +462,8 @@ footer{
     }
     .container1{
         width: 100%;
-        margin: 10px 0 600px 0;
+        height: 300px;
+        margin: 10px 0 500px 0;
      }
     article{
     width: 100%;
@@ -572,7 +573,7 @@ footer{
     .wrapper02{
         margin: 200px 0 0 0;
     }
-    .container15, .container1{
+    .container15{
         height: 400px;
     }
     .container16, .container17{
